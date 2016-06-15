@@ -7,5 +7,5 @@
 	$arr = $_SESSION['myarr'];
 
 	echo '<pre>';
-	echo '<br> session 数据是';
+	echo '<br> session data is';
 	var_dump($arr);
