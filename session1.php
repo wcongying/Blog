@@ -1,6 +1,6 @@
 <?php
 
-	$arr = array('no1'=>'红楼梦', 'writer'=>'曹雪芹');
+	$arr = array('no1'=>'Dream', 'writer'=>'CaoXue');
 
 	//放入到session
 	//1. 启用session
